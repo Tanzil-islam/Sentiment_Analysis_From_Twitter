@@ -1,3 +1,3 @@
 ##Sentiment Analysis from Twitter comments
 
-Models:
+This task was completed using LogicticRegressionCV
